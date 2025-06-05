@@ -1,4 +1,4 @@
-# Ternary Structures Exploration and Recommendation tool
+# CRAFT (Chemical Recommendation & Analysis for Future Targets)
 Jupyter notebook interface was made for an exploration and recommendation tool that identifies promising new compound compositions based on chemical similarity and site-specific elemental substitution. 
 The notebook acts as a front-end to backend Python scripts that carry out advanced data processing and machine learning analysis.
 ## How to run 
